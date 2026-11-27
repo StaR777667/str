@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PulseBoost</string>
+    <string name="nav_optimize">Optimasi</string>
+    <string name="nav_booster">Layar &amp; Game</string>
+    <string name="nav_battery">Baterai</string>
+    <string name="nav_specs">Spesifikasi</string>
+    <string name="nav_ai">Asisten AI</string>
+    <string name="hero_banner_desc">Ilustrasi inti prosesor dan pendinginan perangkat</string>
+</resources>

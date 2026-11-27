@@ -1,0 +1,6 @@
+{
+  "name": "PulseBoost",
+  "description": "Aplikasi optimisasi performa Android dengan pembersihan file sampah, pengaturan kelancaran layar, manajemen RAM gaming, pemeriksaan spesifikasi hardware mendalam, pemantauan suhu baterai real-time, serta asisten AI diagnostik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
